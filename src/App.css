@@ -1,0 +1,50 @@
+.texcen{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.que{
+    margin-top: 50px;
+    width: 500px;
+    margin-left: 200px;
+}
+.op{
+    margin-top: 18px;
+    margin-left: 300px;
+    cursor: pointer;
+    border: 2px solid black;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+}
+.but{
+    width: 100px;
+    height:40px;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.bor{
+    border: 2px solid white;
+    height: 600px;
+    width: 100px;
+    margin-left: 50px;
+}
+.correct
+{
+    background: green;
+}
+.wrong
+{
+    background: red;
+}
+.score{
+    margin-top: 50px;
+    margin-left: 380px;
+    width:320px;
+}
+.reset{
+    margin-top: 80px;
+    margin-left: 500px;
+    background: yellow;
+    height: 40px;
+    width: 80px;
+}
